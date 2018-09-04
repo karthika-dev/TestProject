@@ -15,6 +15,13 @@ namespace SonarQube
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+
+
+
+
+
+            var x = 5;
+            var y =+ x;
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
