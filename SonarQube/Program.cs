@@ -22,6 +22,8 @@ namespace SonarQube
 
             var x = 5;
             var y =+ x;
+            //tstingcsxcsaxsaxdscadxa
+            int zx;
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
