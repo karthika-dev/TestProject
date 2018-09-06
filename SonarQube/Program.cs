@@ -22,6 +22,7 @@ namespace SonarQube
 
             var x = 5;
             var y =+ x;
+            var e
             //tstingcsxcsaxsaxdscadxa//hgjjhjhkj
             //tyu
             //edf
