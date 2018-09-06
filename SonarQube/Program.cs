@@ -23,8 +23,8 @@ namespace SonarQube
             var y =+ x;
                 var k = +x;
             var my =+ k;
-            int p;
-            p += k;
+                int p;
+             p += k;
             //tstingcsxcsaxsaxdscadxa//hgjjhjhkj
             //tyu
             //edf
