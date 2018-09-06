@@ -25,6 +25,8 @@ namespace SonarQube
             var my =+ k;
                 int p;
              p += k;
+            int ee;
+            ee += k;
             //tstingcsxcsaxsaxdscadxa//hgjjhjhkj
             //tyu
             //edf
