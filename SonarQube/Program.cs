@@ -53,6 +53,11 @@ namespace SonarQube
             //wdwqedwed
         }
 
+        private async void  Testttt()
+        {
+            var k = null;
+
+        }
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
