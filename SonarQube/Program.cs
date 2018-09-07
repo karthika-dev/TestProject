@@ -22,8 +22,8 @@ namespace SonarQube
             var x = 5;
             var y =+ x;
                 var k = +x;
-            var my =+ k;
-                int p;
+                var my =+ k;
+                    int p;
                             p += k;
                         int ee;
                         ee += k;
