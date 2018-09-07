@@ -19,14 +19,16 @@ namespace SonarQube
 
 
 
-            var x = 5;
-            var y =+ x;
-                var k = +x;
-                var my =+ k;
-                    int p;
-                            p += k;
-                        int ee;
-                        ee += k;
+                    var x = 5;
+                    var y =+ x;
+                        var k = +x;
+                        var my =+ k;
+                            int p;
+                                    p += k;
+                                int ee;
+                                ee += k;
+            int ewe;
+            ewe += k;
             //tstingcsxcsaxsaxdscadxa//hgjjhjhkj
             //tyu
             //edf
