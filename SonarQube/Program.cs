@@ -53,10 +53,10 @@ namespace SonarQube
             //wdwqedwed
         }
 
-        private async void  Testttt(int w)
+        private async void  Tesftttt(int w)
         {
-            var k = null;
-            var kk = null;
+            var kf = null;
+            var kfk = null;
 
         }
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
