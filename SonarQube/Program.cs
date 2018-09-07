@@ -27,8 +27,8 @@ namespace SonarQube
                                     p += k;
                                 int ee;
                                 ee += k;
-            int ewwe;
-            ewwe += k;
+            int eewwe;
+            eewwe += k;
            
             //tstingcsxcsaxsaxdscadxa//hgjjhjhkj
             //tyu
