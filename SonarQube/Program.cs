@@ -47,7 +47,13 @@ namespace SonarQube
             //rtre
             //dfdfasdf
             //ererer
-            //fgdgf
+            //fgdgf  bfgg
+
+
+
+
+
+
             //wd
             //ef
             //werwerwer
@@ -62,7 +68,7 @@ namespace SonarQube
             //wdwqedwed
         }
 
-        private async void  Tesftttt(int w,out int rr,int p=3)
+        private async void  Tesftttt(int w, out int rr,int p=3)
         {
             var kf = null;
             var kfk = null;
