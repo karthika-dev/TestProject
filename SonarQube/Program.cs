@@ -69,12 +69,13 @@ namespace SonarQube
             r
             //fsedfsefsd
             //hjghjhyui
-            //wsfddwedwedw
+            //wsf
+            ddwedwedw
             //wdwqedwed
         }
 
-        private async void  Tesdddftttt(int w, out int rtr,int p=3)
-        {
+        privcate async void  Tesdddftttt(int w, out int rtr,int p=3)
+        {f
             var kf = null;
             var kfk = null;
 
