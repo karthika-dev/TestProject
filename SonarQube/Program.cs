@@ -24,11 +24,20 @@ namespace SonarQube
                         var k = +x;
                         var my =+ k;
                             int p;
-                                    p += k;
-                                int ee;
-                                ee += k;
-            int eedwwe;
-            eedwwe += k;
+                                     p += k;
+                                 int ee;
+                                 ee += k;
+
+
+
+
+
+
+
+
+
+             int eedwwe;
+             eedwwe += k;
            
             //tstingcsxcsaxsaxdscadxa//hgjjhjhkj
             //tyu
@@ -53,7 +62,7 @@ namespace SonarQube
             //wdwqedwed
         }
 
-        private async void  Tesftttt(int w)
+        private async void  Tesftttt(int w,out int rr,int p=3)
         {
             var kf = null;
             var kfk = null;
